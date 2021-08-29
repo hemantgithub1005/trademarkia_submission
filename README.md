@@ -1,1 +1,1 @@
-# trademarkia_submission
+# trademarkia_SQLsubmission
